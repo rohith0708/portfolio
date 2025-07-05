@@ -6,7 +6,7 @@ import { SocialLink } from "@/types/socials";
 const SOCIAL_LINKS: SocialLink[] = [
   {
     name: "LinkedIn",
-    link: "www.linkedin.com/in/rohith-remesh-a59144275",
+    link: "https://www.linkedin.com/in/rohith-remesh-a59144275",
     icon: FiLinkedin,
     color: "#0a66c2",
   },

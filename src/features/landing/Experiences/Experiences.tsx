@@ -87,13 +87,7 @@ const Experiences = () => {
                 <em>Outcome: Delivered a highly available, secure environment providing reliable application performance.</em>
               </Text>
 
-              <Text fontSize="md">
-                <strong>CI/CD Pipeline for Static Website with Hugo using GitHub Pages</strong><br />
-                ● Set up a GitHub Actions workflow to build and deploy a Hugo-based static website directly to GitHub Pages.<br />
-                ● Automated deployment on every push to the <code>main</code> branch, ensuring consistent and versioned site updates.<br />
-                ● Configured custom domain and enforced HTTPS via GitHub Pages settings.<br />
-                <em>Outcome: Delivered a fast, automated, and cost-free static website deployment with minimal overhead.</em>
-              </Text>
+  
             </Box>
           </TimeLineItem>
         </Box>
